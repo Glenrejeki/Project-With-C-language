@@ -1,4 +1,4 @@
-Halo everyone !!
+Halo everyone !!!\n
 This repo just to save what i have learned from youtube to more understand c language
 
 Source :
